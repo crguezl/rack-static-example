@@ -1,4 +1,4 @@
-Example of how to use [Rack::Static][http://rack.rubyforge.org/doc/Rack/Static.html]
+Example of how to use [Rack::Static](http://rack.rubyforge.org/doc/Rack/Static.html)
 
   $ rake -T
   rake client  # run client via curl
